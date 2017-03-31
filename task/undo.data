@@ -222,3 +222,29 @@ time 1490967556
 old [description:"org Giacofei" entry:"1490901846" modified:"1490901846" status:"pending" uuid:"e92c2d2a-3945-4270-bd6a-4f242d51432c"]
 new [description:"org Giacofei" end:"1490967553" entry:"1490901846" modified:"1490967556" status:"deleted" uuid:"e92c2d2a-3945-4270-bd6a-4f242d51432c"]
 ---
+time 1490968303
+new [description:"Test water heater pressure relief valve." due:"1492315200" entry:"1490968303" modified:"1490968303" recur:"6months" scheduled:"1492920000" status:"recurring" uuid:"023db21e-ba05-4885-b8bf-b3016da99bf0" wait:"1491710400"]
+---
+time 1490968349
+new [description:"Test water heater pressure relief valve." due:"1492315200" entry:"1490968349" imask:"0" modified:"1490968303" parent:"023db21e-ba05-4885-b8bf-b3016da99bf0" recur:"6months" scheduled:"1492920000" status:"waiting" uuid:"18ec081c-d45a-4f8f-81cb-ae4e2cf088d6" wait:"1491710400"]
+---
+time 1490968349
+old [description:"Test water heater pressure relief valve." due:"1492315200" entry:"1490968303" modified:"1490968303" recur:"6months" scheduled:"1492920000" status:"recurring" uuid:"023db21e-ba05-4885-b8bf-b3016da99bf0" wait:"1491710400"]
+new [description:"Test water heater pressure relief valve." due:"1492315200" entry:"1490968303" mask:"W" modified:"1490968349" recur:"6months" scheduled:"1492920000" status:"recurring" uuid:"023db21e-ba05-4885-b8bf-b3016da99bf0" wait:"1491710400"]
+---
+time 1490968374
+old [description:"Test water heater pressure relief valve." due:"1492315200" entry:"1490968303" mask:"W" modified:"1490968349" recur:"6months" scheduled:"1492920000" status:"recurring" uuid:"023db21e-ba05-4885-b8bf-b3016da99bf0" wait:"1491710400"]
+new [description:"Test water heater pressure relief valve." due:"1492315200" entry:"1490968303" mask:"W" modified:"1490968374" project:"home.maintenance" recur:"6months" scheduled:"1492920000" status:"recurring" tags:"pm" uuid:"023db21e-ba05-4885-b8bf-b3016da99bf0" wait:"1491710400"]
+---
+time 1490968374
+old [description:"Test water heater pressure relief valve." due:"1492315200" entry:"1490968349" imask:"0" modified:"1490968303" parent:"023db21e-ba05-4885-b8bf-b3016da99bf0" recur:"6months" scheduled:"1492920000" status:"waiting" uuid:"18ec081c-d45a-4f8f-81cb-ae4e2cf088d6" wait:"1491710400"]
+new [description:"Test water heater pressure relief valve." due:"1492315200" entry:"1490968349" imask:"0" modified:"1490968374" parent:"023db21e-ba05-4885-b8bf-b3016da99bf0" project:"home.maintenance" recur:"6months" scheduled:"1492920000" status:"waiting" tags:"pm" uuid:"18ec081c-d45a-4f8f-81cb-ae4e2cf088d6" wait:"1491710400"]
+---
+time 1490968474
+old [description:"Test water heater pressure relief valve." due:"1492315200" entry:"1490968303" mask:"W" modified:"1490968374" project:"home.maintenance" recur:"6months" scheduled:"1492920000" status:"recurring" tags:"pm" uuid:"023db21e-ba05-4885-b8bf-b3016da99bf0" wait:"1491710400"]
+new [description:"Test water heater pressure relief valve." due:"1492315200" entry:"1490968303" mask:"W" modified:"1490968474" project:"home.maintenance" recur:"6months" status:"recurring" tags:"pm" until:"1492920000" uuid:"023db21e-ba05-4885-b8bf-b3016da99bf0" wait:"1491710400"]
+---
+time 1490968501
+old [description:"Check roof for leaks" due:"1492920000" entry:"1490964111" mask:"W" modified:"1490964111" priority:"H" project:"home.maintenance" recur:"quarterly" scheduled:"1493524800" status:"recurring" tags:"pm" uuid:"f937e989-ac5b-4cdd-90ba-7f7833f7f3a3" wait:"1492315200"]
+new [description:"Check roof for leaks" due:"1492920000" entry:"1490964111" mask:"W" modified:"1490968501" priority:"H" project:"home.maintenance" recur:"quarterly" status:"recurring" tags:"pm" until:"1493524800" uuid:"f937e989-ac5b-4cdd-90ba-7f7833f7f3a3" wait:"1492315200"]
+---
