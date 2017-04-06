@@ -9,6 +9,7 @@
 
 # Work
   - [[TODO]]
+  - [[Notes]]
 
 # Home
 ## Projects List
