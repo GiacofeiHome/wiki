@@ -9,6 +9,8 @@
 Turning off the solenoids after an FZ test causes the SuperFlow board to reset.
 
 ## TODO
- - [o] Check Dyno #1 FZ setup and see if problem occurs on that hardware.
-   - [X] Jason needs to verify the DRM chip on the cable.
-   - [ ] Test setup with FZ valve body. 
+- [ ] Create FZ wiring map
+  - [ ] Find plug end of loose wire on dyno #2 relay board.
+  - [ ] Check Dyno #1 harness for failure (does it trip the superflow board?)
+    - [ ] Need to move harness chip from dyno #2 to dyno #1
+  - [ ] Swap the wire harness from dyno #1 to dyno #2
