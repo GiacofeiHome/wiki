@@ -34,23 +34,20 @@
 
 ## DOCUMENTATION
 
-  - [[Notes#Mazda Info]]
   - [[work/projects/server_documentation#Server Documentation]]
 
 ## DYNOSERVER
 
-  - [[Notes#Mazda Info#Debian Server]]
   - [[work/projects/server_documentation#Server Documentation#Debian Server]]
 
 ## FZ
 
-  - [[home/cgiacofe/vimwiki/work/projects/fz_solenoid#FZ Solenoid]]
   - [[work/projects/fz_solenoid#FZ Solenoid]]
 
 ## MAINTENANCE
 
   - [[diary/2017-04-05#2017-04-05#2017-04-05 13:18:26#Rotary Dyno Repair]]
-  - [[home/cgiacofe/vimwiki/work/projects/fz_solenoid#FZ Solenoid]]
+  - [[work/projects/fz_solenoid#FZ Solenoid]]
 
 ## REVIEW-2016
 
@@ -64,17 +61,14 @@
 
 ## SYNCTHING
 
-  - [[Notes#Mazda Info#Debian Server#Syncthing]]
   - [[work/projects/server_documentation#Server Documentation#Debian Server#Syncthing]]
 
 ## TESTDATA
 
-  - [[Notes#Mazda Info#Debian Server#Dyno Download#Script Overview]]
   - [[work/projects/server_documentation#Server Documentation#Debian Server#Dyno Download#Script Overview]]
 
 ## WORK
 
   - [[diary/2017-03-30#2017-03-30#2017-03-30 11:10:31]]
   - [[diary/2017-04-05#2017-04-05#2017-04-05 13:18:26#Rotary Dyno Repair]]
-  - [[home/cgiacofe/vimwiki/work/projects/fz_solenoid#FZ Solenoid]]
   - [[work/projects/fz_solenoid#FZ Solenoid]]
