@@ -8,7 +8,6 @@
     - [[#Generated Tags#DYNOSERVER|DYNOSERVER]]
     - [[#Generated Tags#FZ|FZ]]
     - [[#Generated Tags#MAINTENANCE|MAINTENANCE]]
-    - [[#Generated Tags#REVIEW|REVIEW]]
     - [[#Generated Tags#REVIEW-2016|REVIEW-2016]]
     - [[#Generated Tags#REVIEW-2017|REVIEW-2017]]
     - [[#Generated Tags#SYNCTHING|SYNCTHING]]
@@ -52,11 +51,6 @@
 
   - [[diary/2017-04-05#2017-04-05#2017-04-05 13:18:26#Rotary Dyno Repair]]
   - [[home/cgiacofe/vimwiki/work/projects/fz_solenoid#FZ Solenoid]]
-  - [[work/projects/fz_solenoid#FZ Solenoid]]
-
-## REVIEW
-
-  - [[home/cgiacofe/vimwiki/diary/2017-06-22#2017-06-22 09:35:42]]
 
 ## REVIEW-2016
 
