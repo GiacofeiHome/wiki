@@ -4,7 +4,7 @@
     - [[#FZ Solenoid#TODO|TODO]]
 
 # FZ Solenoid
-:work:maintenance:fz:
+:WORK:MAINTENANCE:FZ:
 ## Description
 Turning off the solenoids after an FZ test causes the SuperFlow board to reset.
 

@@ -1,14 +1,18 @@
 !_TAG_FILE_SORTED	1	
-documentation	Notes.md	11;"	vimwiki:Notes\tNotes#Mazda Info
-dynoserver	Notes.md	13;"	vimwiki:Notes\tNotes#Mazda Info#Debian Server
-fz	work/projects/fz_solenoid.md	7;"	vimwiki:work/projects/fz_solenoid\twork/projects/fz_solenoid#FZ Solenoid
-maintenance	diary/2017-04-05.md	5;"	vimwiki:diary/2017-04-05\tdiary/2017-04-05#2017-04-05#2017-04-05 13:18:26#Rotary Dyno Repair
-maintenance	work/projects/fz_solenoid.md	7;"	vimwiki:work/projects/fz_solenoid\twork/projects/fz_solenoid#FZ Solenoid
-review	diary/2016-06-01.md	4;"	vimwiki:diary/2016-06-01\tdiary/2016-06-01#2016-06-01#M1 Data Import
-review	diary/2016-12-01.md	4;"	vimwiki:diary/2016-12-01\tdiary/2016-12-01#2016-12-01#Maintenance Database
-review	diary/2017-06-14.md	3;"	vimwiki:diary/2017-06-14\tdiary/2017-06-14#M1 Database
-syncthing	Notes.md	15;"	vimwiki:Notes\tNotes#Mazda Info#Debian Server#Syncthing
-testdata	Notes.md	25;"	vimwiki:Notes\tNotes#Mazda Info#Debian Server#Dyno Download#Script Overview
-work	diary/2017-03-30.md	9;"	vimwiki:diary/2017-03-30\tdiary/2017-03-30#2017-03-30#2017-03-30 11:10:31
-work	diary/2017-04-05.md	5;"	vimwiki:diary/2017-04-05\tdiary/2017-04-05#2017-04-05#2017-04-05 13:18:26#Rotary Dyno Repair
-work	work/projects/fz_solenoid.md	7;"	vimwiki:work/projects/fz_solenoid\twork/projects/fz_solenoid#FZ Solenoid
+DOCUMENTATION	Notes.md	11;"	vimwiki:Notes\tNotes#Mazda Info
+DOCUMENTATION	work/projects/server_documentation.md	2;"	vimwiki:work/projects/server_documentation\twork/projects/server_documentation#Server Documentation
+DYNOSERVER	Notes.md	13;"	vimwiki:Notes\tNotes#Mazda Info#Debian Server
+DYNOSERVER	work/projects/server_documentation.md	4;"	vimwiki:work/projects/server_documentation\twork/projects/server_documentation#Server Documentation#Debian Server
+FZ	work/projects/fz_solenoid.md	7;"	vimwiki:work/projects/fz_solenoid\twork/projects/fz_solenoid#FZ Solenoid
+MAINTENANCE	diary/2017-04-05.md	5;"	vimwiki:diary/2017-04-05\tdiary/2017-04-05#2017-04-05#2017-04-05 13:18:26#Rotary Dyno Repair
+MAINTENANCE	work/projects/fz_solenoid.md	7;"	vimwiki:work/projects/fz_solenoid\twork/projects/fz_solenoid#FZ Solenoid
+REVIEW	diary/2016-06-01.md	4;"	vimwiki:diary/2016-06-01\tdiary/2016-06-01#2016-06-01#M1 Data Import
+REVIEW	diary/2016-12-01.md	4;"	vimwiki:diary/2016-12-01\tdiary/2016-12-01#2016-12-01#Maintenance Database
+REVIEW	diary/2017-06-14.md	3;"	vimwiki:diary/2017-06-14\tdiary/2017-06-14#M1 Database
+SYNCTHING	Notes.md	15;"	vimwiki:Notes\tNotes#Mazda Info#Debian Server#Syncthing
+SYNCTHING	work/projects/server_documentation.md	6;"	vimwiki:work/projects/server_documentation\twork/projects/server_documentation#Server Documentation#Debian Server#Syncthing
+TESTDATA	Notes.md	25;"	vimwiki:Notes\tNotes#Mazda Info#Debian Server#Dyno Download#Script Overview
+TESTDATA	work/projects/server_documentation.md	16;"	vimwiki:work/projects/server_documentation\twork/projects/server_documentation#Server Documentation#Debian Server#Dyno Download#Script Overview
+WORK	diary/2017-03-30.md	9;"	vimwiki:diary/2017-03-30\tdiary/2017-03-30#2017-03-30#2017-03-30 11:10:31
+WORK	diary/2017-04-05.md	5;"	vimwiki:diary/2017-04-05\tdiary/2017-04-05#2017-04-05#2017-04-05 13:18:26#Rotary Dyno Repair
+WORK	work/projects/fz_solenoid.md	7;"	vimwiki:work/projects/fz_solenoid\twork/projects/fz_solenoid#FZ Solenoid

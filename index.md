@@ -4,20 +4,22 @@
   - [[#Home|Home]]
     - [[#Home#Projects List|Projects List]]
   - [[#Generated Tags|Generated Tags]]
-    - [[#Generated Tags#Documentation|Documentation]]
-    - [[#Generated Tags#DynoServer|DynoServer]]
-    - [[#Generated Tags#Maintenance|Maintenance]]
-    - [[#Generated Tags#Review|Review]]
-    - [[#Generated Tags#Syncthing|Syncthing]]
-    - [[#Generated Tags#TestData|TestData]]
-    - [[#Generated Tags#Work|Work]]
+    - [[#Generated Tags#DOCUMENTATION|DOCUMENTATION]]
+    - [[#Generated Tags#DYNOSERVER|DYNOSERVER]]
+    - [[#Generated Tags#FZ|FZ]]
+    - [[#Generated Tags#MAINTENANCE|MAINTENANCE]]
+    - [[#Generated Tags#REVIEW|REVIEW]]
+    - [[#Generated Tags#SYNCTHING|SYNCTHING]]
+    - [[#Generated Tags#TESTDATA|TESTDATA]]
+    - [[#Generated Tags#WORK|WORK]]
 
 # Work
-  - [[TODO]]
-  - [[Notes]]
+  - [[work/TODO|ToDo List]]
+  - [[work/Notes|Notes]]
 
 ## Projects
   - [[work/projects/fz_solenoid|FZ Solenoid Trip]]
+  - [[work/projects/server_documentation|Server Documentation]]
 
 # Home
 ## Projects List
@@ -27,33 +29,43 @@
 
 # Generated Tags
 
-## Documentation
+## DOCUMENTATION
 
   - [[Notes#Mazda Info]]
+  - [[work/projects/server_documentation#Server Documentation]]
 
-## DynoServer
+## DYNOSERVER
 
   - [[Notes#Mazda Info#Debian Server]]
+  - [[work/projects/server_documentation#Server Documentation#Debian Server]]
 
-## Maintenance
+## FZ
+
+  - [[work/projects/fz_solenoid#FZ Solenoid]]
+
+## MAINTENANCE
 
   - [[diary/2017-04-05#2017-04-05#2017-04-05 13:18:26#Rotary Dyno Repair]]
+  - [[work/projects/fz_solenoid#FZ Solenoid]]
 
-## Review
+## REVIEW
 
   - [[diary/2016-06-01#2016-06-01#M1 Data Import]]
   - [[diary/2016-12-01#2016-12-01#Maintenance Database]]
   - [[diary/2017-06-14#M1 Database]]
 
-## Syncthing
+## SYNCTHING
 
   - [[Notes#Mazda Info#Debian Server#Syncthing]]
+  - [[work/projects/server_documentation#Server Documentation#Debian Server#Syncthing]]
 
-## TestData
+## TESTDATA
 
   - [[Notes#Mazda Info#Debian Server#Dyno Download#Script Overview]]
+  - [[work/projects/server_documentation#Server Documentation#Debian Server#Dyno Download#Script Overview]]
 
-## Work
+## WORK
 
   - [[diary/2017-03-30#2017-03-30#2017-03-30 11:10:31]]
   - [[diary/2017-04-05#2017-04-05#2017-04-05 13:18:26#Rotary Dyno Repair]]
+  - [[work/projects/fz_solenoid#FZ Solenoid]]
