@@ -1,3 +1,12 @@
+# Contents
+  - [[#Server Documentation|Server Documentation]]
+    - [[#Server Documentation#Debian Server|Debian Server]]
+      - [[#Server Documentation#Debian Server#Syncthing|Syncthing]]
+      - [[#Server Documentation#Debian Server#Dyno Download|Dyno Download]]
+        - [[#Server Documentation#Debian Server#Dyno Download#Script Overview|Script Overview]]
+        - [[#Server Documentation#Debian Server#Dyno Download#process_XX.py|process_XX.py]]
+      - [[#Server Documentation#Debian Server#Detailed file locations|Detailed file locations]]
+
 # Server Documentation 
 :DOCUMENTATION:
 ## Debian Server
@@ -31,13 +40,14 @@ dyno test configuration is modified to change the name of a test field or a new
 test field is added.
 
 ### Detailed file locations
-
-*process_dyno*:  /media/dyno_share/Server Settings/process_dyno
-*find_tests*:    /media/dyno_share/Server Settings/find_tests
-*process_FN.py*: /media/dyno_share/parser/process_FN.py
-*process_FZ.py*: /media/dyno_share/parser/process_FZ.py
-*process_VB.py*: /media/dyno_share/parser/process_VB.py
-*makefile*:      /media/dyno_share/parser/makefile
-*settings.py*:   /media/dyno_share/parser/settings.py
-*syncthing*:     /media/HDD/smb_share/Tools/syncthing-linux-386-v0.14.18/syncthing
+| :File Name      | :Location                                                         |
+| --------------- | ----------------------------------------------------------------- |
+| *process_dyno*  | /media/dyno_share/Server Settings/process_dyno                    |
+| *find_tests*    | /media/dyno_share/Server Settings/find_tests                      |
+| *process_FN.py* | /media/dyno_share/parser/process_FN.py                            |
+| *process_FZ.py* | /media/dyno_share/parser/process_FZ.py                            |
+| *process_VB.py* | /media/dyno_share/parser/process_VB.py                            |
+| *makefile*      | /media/dyno_share/parser/makefile                                 |
+| *settings.py*   | /media/dyno_share/parser/settings.py                              |
+| *syncthing*     | /media/HDD/smb_share/Tools/syncthing-linux-386-v0.14.18/syncthing |
 
