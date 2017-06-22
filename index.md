@@ -25,7 +25,7 @@
   - [TODO](TODO)
 
 ## Projects List
-  [](-) [[Backyard Cleanup]]
+  - [[Backyard Cleanup]]
   - [[Deck Repair]]
   - [[Budget]]  
 
