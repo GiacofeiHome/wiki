@@ -1,13 +1,13 @@
 # Contents
   - [[#Work|Work]]
+    - [[#Work#Projects|Projects]]
   - [[#Home|Home]]
     - [[#Home#Projects List|Projects List]]
   - [[#Generated Tags|Generated Tags]]
     - [[#Generated Tags#Documentation|Documentation]]
     - [[#Generated Tags#DynoServer|DynoServer]]
     - [[#Generated Tags#Maintenance|Maintenance]]
-    - [[#Generated Tags#Review-2016|Review-2016]]
-    - [[#Generated Tags#Review-2017|Review-2017]]
+    - [[#Generated Tags#Review|Review]]
     - [[#Generated Tags#Syncthing|Syncthing]]
     - [[#Generated Tags#TestData|TestData]]
     - [[#Generated Tags#Work|Work]]
@@ -15,6 +15,9 @@
 # Work
   - [[TODO]]
   - [[Notes]]
+
+## Projects
+  - [[work/projects/fz_solenoid|FZ Solenoid Trip]]
 
 # Home
 ## Projects List

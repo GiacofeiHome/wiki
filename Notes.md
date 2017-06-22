@@ -8,11 +8,11 @@
       - [[#Mazda Info#Debian Server#Detailed file locations|Detailed file locations]]
 
 # Mazda Info
-:Documentation:
+:documentation:
 ## Debian Server
-:DynoServer:
+:dynoserver:
 ### Syncthing
-:Syncthing:
+:syncthing:
   - Login
     - user: reman
     - pswd: admin
@@ -22,7 +22,7 @@
 Dyno data download works with several scripts.
 
 #### Script Overview
-:TestData:
+:testdata:
   - */bin/process_dyno*: Runs serveral times per hour to find new tests and
    format them as text to be imported into M1.
     - Calls *find_tests*, *make*
