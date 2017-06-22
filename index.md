@@ -22,6 +22,8 @@
   - [[work/projects/server_documentation|Server Documentation]]
 
 # Home
+  - [TODO](TODO)
+
 ## Projects List
   - [[Backyard Cleanup]]
   - [[Deck Repair]]
@@ -53,6 +55,7 @@
   - [[diary/2016-06-01#2016-06-01#M1 Data Import]]
   - [[diary/2016-12-01#2016-12-01#Maintenance Database]]
   - [[diary/2017-06-14#M1 Database]]
+  - [[diary/2017-06-22#2017-06-22 09:35:42]]
 
 ## SYNCTHING
 
