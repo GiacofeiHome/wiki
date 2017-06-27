@@ -10,6 +10,7 @@
     - [[#Generated Tags#MAINTENANCE|MAINTENANCE]]
     - [[#Generated Tags#REVIEW-2016|REVIEW-2016]]
     - [[#Generated Tags#REVIEW-2017|REVIEW-2017]]
+    - [[#Generated Tags#SCRIPTS|SCRIPTS]]
     - [[#Generated Tags#SYNCTHING|SYNCTHING]]
     - [[#Generated Tags#TESTDATA|TESTDATA]]
     - [[#Generated Tags#WORK|WORK]]
@@ -64,13 +65,18 @@
   - [[diary/2017-06-23#FZ Dyno Harness Chip Wiring#2017-06-23 11:37:09]]
   - [[diary/2017-06-27#FZ Dyno KVM Switch#2017-06-27 15:45:35]]
 
+## SCRIPTS
+
+  - [[work/projects/server_documentation#Server Documentation#Debian Server#Dyno Download#Script Overview]]
+  - [[work/projects/server_documentation#Server Documentation#Debian Server#Dyno Download#process_XX.py]]
+
 ## SYNCTHING
 
   - [[work/projects/server_documentation#Server Documentation#Debian Server#Syncthing]]
 
 ## TESTDATA
 
-  - [[work/projects/server_documentation#Server Documentation#Debian Server#Dyno Download#Script Overview]]
+  - [[work/projects/server_documentation#Server Documentation#Debian Server#Dyno Download]]
 
 ## WORK
 
