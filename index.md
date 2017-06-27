@@ -44,13 +44,13 @@
 
 ## FZ
 
-  - [[diary/2017-06-23#FZ Dyno Harness Chip Wiring#2017-06-23 11:37:09]]
+  - [[diary/2017-06-23#2017-06-23 11:37:09#FZ Dyno Harness Chip Wiring]]
   - [[work/projects/fz_solenoid#FZ Solenoid]]
 
 ## MAINTENANCE
 
   - [[diary/2017-04-05#2017-04-05#2017-04-05 13:18:26#Rotary Dyno Repair]]
-  - [[diary/2017-06-23#FZ Dyno Harness Chip Wiring#2017-06-23 11:37:09]]
+  - [[diary/2017-06-23#2017-06-23 11:37:09#FZ Dyno Harness Chip Wiring]]
   - [[work/projects/fz_solenoid#FZ Solenoid]]
 
 ## REVIEW-2016
@@ -60,10 +60,10 @@
 
 ## REVIEW-2017
 
-  - [[diary/2017-06-14#M1 Database]]
-  - [[diary/2017-06-22#FZ Transmission Solenoid#2017-06-22 09:35:42]]
-  - [[diary/2017-06-23#FZ Dyno Harness Chip Wiring#2017-06-23 11:37:09]]
-  - [[diary/2017-06-27#2017-06-27 15:45:35#FZ Dyno KVM Switch]]
+  - [[diary/2017-06-14#2017-06-14#M1 Database]]
+  - [[diary/2017-06-22#2017-06-22 09:35:42#FZ Transmission Solenoid]]
+  - [[diary/2017-06-23#2017-06-23 11:37:09#FZ Dyno Harness Chip Wiring]]
+  - [[diary/2017-06-27#2017-06-27#15:45:35#FZ Dyno KVM Switch]]
 
 ## SCRIPTS
 
