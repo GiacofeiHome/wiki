@@ -18,11 +18,12 @@
     - pswd: admin
 
 ### Dyno Download
+:TESTDATA:
 
 Dyno data download works with several scripts.
 
 #### Script Overview
-:TESTDATA:
+:SCRIPTS:
   - */bin/process_dyno*: Runs serveral times per hour to find new tests and
    format them as text to be imported into M1.
     - Calls *find_tests*, *make*
@@ -33,7 +34,7 @@ Dyno data download works with several scripts.
     parsable text files.
 
 #### process_XX.py
-
+:SCRIPTS:
 These scripts utilize a settings file *settings.py* that contains all of the
 test fields that are to be imported. This file needs to be updated anytime the
 dyno test configuration is modified to change the name of a test field or a new
