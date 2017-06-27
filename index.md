@@ -8,8 +8,6 @@
     - [[#Generated Tags#DYNOSERVER|DYNOSERVER]]
     - [[#Generated Tags#FZ|FZ]]
     - [[#Generated Tags#MAINTENANCE|MAINTENANCE]]
-    - [[#Generated Tags#REVIEW-2016|REVIEW-2016]]
-    - [[#Generated Tags#REVIEW-2017|REVIEW-2017]]
     - [[#Generated Tags#SYNCTHING|SYNCTHING]]
     - [[#Generated Tags#TESTDATA|TESTDATA]]
     - [[#Generated Tags#WORK|WORK]]
@@ -42,25 +40,12 @@
 
 ## FZ
 
-  - [[diary/2017-06-23#2017-06-23 11:37:09]]
   - [[work/projects/fz_solenoid#FZ Solenoid]]
 
 ## MAINTENANCE
 
   - [[diary/2017-04-05#2017-04-05#2017-04-05 13:18:26#Rotary Dyno Repair]]
-  - [[diary/2017-06-23#2017-06-23 11:37:09]]
   - [[work/projects/fz_solenoid#FZ Solenoid]]
-
-## REVIEW-2016
-
-  - [[diary/2016-06-01#2016-06-01#M1 Data Import]]
-  - [[diary/2016-12-01#2016-12-01#Maintenance Database]]
-
-## REVIEW-2017
-
-  - [[diary/2017-06-14#M1 Database]]
-  - [[diary/2017-06-22#FZ Transmission Solenoid#2017-06-22 09:35:42]]
-  - [[diary/2017-06-23#2017-06-23 11:37:09]]
 
 ## SYNCTHING
 
