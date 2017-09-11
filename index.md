@@ -1,3 +1,9 @@
+# Contents
+  - [[#Links|Links]]
+    - [[#Links#Projects|Projects]]
+    - [[#Links#Courses|Courses]]
+  - [[#Generated Tags|Generated Tags]]
+    - [[#Generated Tags#RESEARCH|RESEARCH]]
 
 # Links
   - [[Notes]]
@@ -5,5 +11,11 @@
 ## Projects
 
 ## Courses
- * [understanding_args1](Think Again I: How to Understand Arguments)
-    - [ua_week_1](Week 1)
+ * [Think Again I: How to Understand Arguments](understanding_args1)
+    - [Week 1](ua_week_1)
+
+# Generated Tags
+
+## RESEARCH
+
+  - [[ua_week_1#For Later]]
