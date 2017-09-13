@@ -16,8 +16,8 @@
   
 # For Later
 :RESEARCH:
- - [ ] What is [standard form](standard form)?
- - [ ] What are [suppressed premisses](suppressed premisses)?
+ - [ ] What is [standard form](standard_form)?
+ - [ ] What are [suppressed premisses](suppressed_premisses)?
  - [ ] What is the difference between [deductive](deductive) and [inductive](inductive) arguments?
 
 
