@@ -4,4 +4,4 @@
 
 # Think Again I: How to Understand Arguments
 ## Workfiles
- - [Week 1](ua_week_1)
+ - [Week 1](week 1)
