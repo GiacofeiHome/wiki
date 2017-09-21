@@ -12,7 +12,7 @@
 
 ## Courses
  * [Think Again I: How to Understand Arguments](understanding_args1)
-    - [Week 1](ua_week_1)
+    - [Week 1](understanding arguments/week 1)
 
 # Generated Tags
 
