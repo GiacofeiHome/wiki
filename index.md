@@ -11,7 +11,7 @@
 ## Projects
 
 ## Courses
- * [Think Again I: How to Understand Arguments](understanding_args1)
+ * [Think Again I: How to Understand Arguments](understanding arguments/understanding_args)
     - [Week 1](understanding arguments/week 1)
 
 # Generated Tags
